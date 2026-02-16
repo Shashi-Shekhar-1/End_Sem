@@ -39,10 +39,20 @@ function Mechanics() {
 
         {showSyllabus && (
           <div className="file-placeholder">
-            Unit 1 - Force System Force System Force SystemForce System Force System <br /><br />
-            Unit 2 - Structures in Equilibrium <br /><br />
-            Unit 3 - Motion of a Point <br /><br />
-            Unit 4 - Forces, Mass and Acceleration
+             Unit 1 
+Force system: Forces, Free-Body Diagrams, Moment, Couples, Resultant and Equilibrium of Two dimensional force 
+System, Equivalent Force system
+<br/><br/>
+Unit 2 
+Structures in Equilibrium: Beams and Trusses, Dry Friction for inclined planes, Belt friction 
+<br/><br/>
+Unit 3 
+Motion of a Point: Position, Velocity and Acceleration, Straight Line motion, Curvilinear Motion, Cartesian 
+coordinates, normal & tangential coordinates and, polar coordinates. Relative motion 
+<br/><br/>
+Unit 4 
+Forces, Mass and Acceleration: Newton’s second law, Work-Energy Principle, Impulse- Momentum Principle, Direct 
+central impact
           </div>
         )}
       </div>
@@ -56,8 +66,8 @@ function Mechanics() {
           <div className="file-box">
             <h3>Assignment 1<br/>Unit(1,2)-20 Q</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1x9TxPdX8LyoLZhJR-MpROH2JNVRvwn0q/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -69,7 +79,6 @@ function Mechanics() {
             <h3>Assignment 2<br/>Unit(3,4)-16 Q</h3>
             <a
               href="PASTE_PDF_LINK_HERE"
-              target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -81,7 +90,6 @@ function Mechanics() {
             <h3>Assignment 2<br/>Unit(5)-34 Q</h3>
             <a
               href="PASTE_PDF_LINK_HERE"
-              target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -102,7 +110,6 @@ function Mechanics() {
           <h3>Unit 1(student Name)</h3>
           <a
             href="PASTE_PDF_LINK_HERE"
-            target="_blank"
             rel="noopener noreferrer"
             className="pdf-link"
           >
@@ -115,7 +122,6 @@ function Mechanics() {
           <h3>Unit 2,3(student Name)</h3>
           <a
             href="PASTE_PDF_LINK_HERE"
-            target="_blank"
             rel="noopener noreferrer"
             className="pdf-link"
           >
@@ -128,7 +134,6 @@ function Mechanics() {
           <h3>Unit 1(student Name)</h3>
           <a
             href="PASTE_PDF_LINK_HERE"
-            target="_blank"
             rel="noopener noreferrer"
             className="pdf-link"
           >
@@ -174,7 +179,6 @@ function Mechanics() {
             <h3>PYQ 2024</h3>
             <a
               href="PASTE_PDF_LINK_HERE"
-              target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -186,7 +190,6 @@ function Mechanics() {
             <h3>PYQ 2023</h3>
             <a
               href="PASTE_PDF_LINK_HERE"
-              target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -198,7 +201,6 @@ function Mechanics() {
             <h3>PYQ 2022</h3>
             <a
               href="PASTE_PDF_LINK_HERE"
-              target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
