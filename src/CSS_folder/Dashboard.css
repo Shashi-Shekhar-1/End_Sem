@@ -1,0 +1,98 @@
+/* .dashboard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 130px;
+  padding: 5px;
+}
+
+.card {
+  margin-top: 3%;
+  width: 250px;
+  height: 270px;
+  cursor: pointer;
+  overflow: hidden;
+  border-radius: 20px;
+  transition: transform 0.3s ease;
+  border: 2px solid rgb(66, 9, 209);
+  
+
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card:hover {
+  transform: scale(1.05);
+} 
+
+
+
+/* 🔥 Responsive for Mobile */
+/* @media (max-width: 768px) {
+  .dashboard {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card {
+    width: 90%;
+    height: 180px;
+  }
+} */
+
+
+
+
+
+.dashboard {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 80px;
+  padding: 40px;
+  /* background-color: blue; */
+  min-height: 87vh;
+  background:
+    linear-gradient(rgba(171, 237, 149, 0.7),
+      rgba(116, 108, 188, 0.6)),
+    url("./Photo/logo.png");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+
+.card {
+  background: white;
+  border-radius: 12px;
+  height:220px;
+  /* padding: 10px; */
+  text-align: center;
+  cursor: pointer;
+  transition: 0.3s ease;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  /* margin-bottom: 5px; */
+  border-radius: 15px;
+}
+
+.card-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #333;
+}
