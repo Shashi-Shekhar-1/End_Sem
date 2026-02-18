@@ -6,7 +6,7 @@ import { auth } from "./firebase";
 import { useNavigate } from "react-router-dom";
 
 import "./CSS_folder/Login.css";
-import logo from "./photo/logo.png";
+import logo from "./Photo/logo.png";
 
 function Login() {
   const navigate = useNavigate();
