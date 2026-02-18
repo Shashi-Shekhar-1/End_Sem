@@ -107,7 +107,7 @@ central impact
         <div className="horizontal-container">
 
         <div className="file-box">
-          <h3>Unit 1(By Sonal)</h3>
+          <h3>Unit 1(By student name)</h3>
           <a
             href="https://drive.google.com/file/d/1iVFtFpC90Uvzxty_SeHmXJ3cfxgVVZc3/view?usp=drivesdk"
             rel="noopener noreferrer"
