@@ -204,7 +204,7 @@ S: Beta and Gamma function, Area, Volume, Surface area.
           <div className="file-box">
             <h3>PYQ 2023</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
+              href="https://drive.google.com/file/d/1iVFtFpC90Uvzxty_SeHmXJ3cfxgVVZc3/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"

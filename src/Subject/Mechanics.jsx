@@ -66,7 +66,7 @@ central impact
           <div className="file-box">
             <h3>Assignment 1<br/>Unit(1,2)-20 Q</h3>
             <a
-              href="https://drive.google.com/file/d/1x9TxPdX8LyoLZhJR-MpROH2JNVRvwn0q/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1iVFtFpC90Uvzxty_SeHmXJ3cfxgVVZc3/view?usp=drivesdk"
               // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
@@ -107,7 +107,19 @@ central impact
         <div className="horizontal-container">
 
         <div className="file-box">
-          <h3>Unit 1(student Name)</h3>
+          <h3>Unit 1(By Sonal)</h3>
+          <a
+            href="https://drive.google.com/file/d/1iVFtFpC90Uvzxty_SeHmXJ3cfxgVVZc3/view?usp=drivesdk"
+            rel="noopener noreferrer"
+            className="pdf-link"
+          >
+            View Notes
+          </a>
+          
+        </div>
+
+        <div className="file-box">
+          <h3>Unit 2,3(By xyz)</h3>
           <a
             href="PASTE_PDF_LINK_HERE"
             rel="noopener noreferrer"
@@ -119,19 +131,7 @@ central impact
         </div>
 
         <div className="file-box">
-          <h3>Unit 2,3(student Name)</h3>
-          <a
-            href="PASTE_PDF_LINK_HERE"
-            rel="noopener noreferrer"
-            className="pdf-link"
-          >
-            View Notes
-          </a>
-          
-        </div>
-
-        <div className="file-box">
-          <h3>Unit 1(student Name)</h3>
+          <h3>Unit 1(By abc)</h3>
           <a
             href="PASTE_PDF_LINK_HERE"
             rel="noopener noreferrer"
@@ -219,7 +219,7 @@ central impact
 
         <div className="youtube-box">
           <a
-            href="PASTE_YOUTUBE_LINK_HERE"
+            href="https://youtube.com"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
@@ -228,7 +228,7 @@ central impact
             
           </a>
           <a
-            href="PASTE_YOUTUBE_LINK_HERE"
+            href="https://youtube.com"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
@@ -237,24 +237,17 @@ central impact
           </a>
 
           <a
-            href="PASTE_YOUTUBE_LINK_HERE"
+            href="https://youtube.com"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
             G Purohit
           </a>
-          <a
-            href="PASTE_YOUTUBE_LINK_HERE"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="youtube-link"
-          >
-            G Purohit
-          </a>
+          
 
           <a
-            href="PASTE_YOUTUBE_LINK_HERE"
+            href="https://youtube.com"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
@@ -262,7 +255,7 @@ central impact
             G Purohit
           </a>
           <a
-            href="PASTE_YOUTUBE_LINK_HERE"
+            href="https://youtube.com"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
