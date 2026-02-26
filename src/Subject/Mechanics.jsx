@@ -219,48 +219,48 @@ central impact
 
         <div className="youtube-box">
           <a
-            href="https://youtube.com"
+            href="https://youtube.com/playlist?list=PLDN15nk5uLiAyM7MbRBF1eIFC8y5vMRxI&si=PeMZjm1f0ox5FI5E"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            Pradeep Giri <br/>
+            TIKLE'S ACADEMY <br/>
             
           </a>
           <a
-            href="https://youtube.com"
+            href="https://youtube.com/playlist?list=PLT3bOBUU3L9hADhGPsZjSddwAC3BvJDnl&si=nm86THm_NOJ4TafJ"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            G Purohit
+            Pradeep Giri
           </a>
 
           <a
-            href="https://youtube.com"
+            href="https://youtube.com/playlist?list=PLjtQ3BMex7huPZ48zpcyxqvCjEqz6EKru&si=8I-HQbFSx0h9LY8n"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            G Purohit
+            P W
           </a>
           
 
           <a
-            href="https://youtube.com"
+            href="https://youtu.be/axCslafAj3s?si=eKHSvB-DN6yTbSqV"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            G Purohit
+            Gatway Classes
           </a>
           <a
-            href="https://youtube.com"
+            href="https://www.youtube.com/live/WSctd-KdTIk?si=sucypq6Gh5814miX"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            Fearless Innocent
+            Uncademy
           </a>
         </div>
       </div>

@@ -112,7 +112,7 @@ applications to draw 3D views using CAD software
         <div className="horizontal-container">
 
         <div className="file-box">
-          <h3>Unit 1(student Name)</h3>
+          <h3>Unit 1(Nitish kumar)</h3>
           <a
             href="PASTE_PDF_LINK_HERE"
             target="_blank"
