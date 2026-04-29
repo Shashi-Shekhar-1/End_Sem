@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../Mechanics.css";
+import "../Common.css";
 
 function Chemistry() {
   const [showSyllabus, setShowSyllabus] = useState(false);
@@ -8,7 +8,7 @@ function Chemistry() {
     <div className="mechanics-container">
 
 
-      <h1 className="title">Engineering Chemistry</h1>
+      <h1 className="title">Engineering Biology</h1>
 
       <div className="whatsapp-container">
         {/* Floating WhatsApp Button */}
@@ -40,39 +40,50 @@ function Chemistry() {
         {showSyllabus && (
           <div className="file-placeholder">
              Unit 1 
-Analytical Techniques for Engineers:
-• Role of materials in engineering fields.
-• Quality control and assurance in engineering contexts.
-• Qualitative and quantitative analysis
-• Emerging trends and applications of analytical techniques for engineering.
-• Instrumental methods of analysis: spectroscopy (UV and IR), chromatography (GLC and HPLC), Thermo-
-gravimetry: TGA
+             <br/>
+Crosstalk between Biology and Engineering:
+a) Biologically inspired technologies: Case studies of designs in nature and inspired technologies, Biomemetics: 
+Nature inspired material and mechanisms, Self-cleaning surfaces; Self-healing Bioconcrete, Biomining,
+Algorithms in nature,
+b) Contribution of engineering in biological domain: Contribution of Microscope, Imaging techniques, Bio-medical 
+Instruments, Mechanisms (Ergonomics)
 <br/><br/>
-Unit 2 
-Corrosion and material protection
-• Introduction to corrosion and its impact on engineering materials
-• Mechanism, Types/forms of corrosion, Factors that enhance corrosion and choice of parameters to mitigate 
-corrosion.
-• Corrosion prevention techniques, advanced surface coatings and corrosion inhibitors
-• Case studies and real-world applications in corrosion prevention.
-<br/><br/>
+Unit 2
+<br/> 
+Organization of Living Machines:
+Biomolecules and manufacturing of Biopolymers:
+• Carbohydrates (structure-based function and engineering applications)
+• Lipids (structure-based function and engineering applications)
+• Proteins (structure-based function and engineering applications)
+• Nucleic Acids (structure-based function and engineering applications) 
+Organization of life forms: Cell to organism
+ Bioenergetics- Energy dynamics in biological system- principles of energy conservation and optimization
+ <br/><br/>
 Unit 3 
-Electrochemical energy systems
-• High energy electrochemical energy systems: Lithium-ion batteries principle, construction, working,
-advantages and applications, Na-ion Battery, fiber battery
-• Fuel cells-working principles, advantages, applications, discuss its emerging trends.
-• Solar cells, Types Importance of silicon single crystal, polycrystalline and amorphous silicon solar cells-
-working principles, characteristics and applications
-• Green Chemistry & brief study of green hydrogen technology.
+<br/>
+Analogy of biological organ/system and engineering Device/Mechanism:
+Organ & system: Brain & CPU, Eye & Camera, Kidney & Filtration system, Lungs & purification system,
+Heart & Pumping system Process: Photosynthesis & solar cells, Xylem & plumbing, Thermoregulation in human
+body & heat transfer in machine, Defense mechanism in organism, signaling processing in biology and
+electronics
 <br/><br/>
 Unit 4 
-Nanomaterials
-• Nanomaterials, classification, Nanoscale phenomena and quantum effects
-• Top-down and bottom –up approach, Synthesis methods: ball milling, RF sputtering, pulsed laser
-deposition, thin film deposition
-• Applications of nanomaterials in various fields.
-• Fundamentals of Super capacitor and materials used in super capacitor, Synthesis of a super capacitor.
- Study of green nanotechnology, its application and synthesis
+<br/>
+Concepts in Bioengineering:
+Biomechanics: Mechanical properties of tissues, Prosthesis and rehabilitation
+Bioprinting: 3D printing of biological tissues and organ engineering and transplanting
+Biomaterials: Types, properties and applications
+Tissue Engineering: Principle, Components, Methods of Scafold synthesis, properties and applications.
+<br/><br/>
+Unit 5 
+<br/>
+Application areas of Bioengineering:
+Databases & Biocomputing: Acquisition, storage, processing and transmission of biological data and its
+applications like PCR
+Bioinstrumentation: Diagnostic and Therapeutic devices
+Bioimaging: Principle, types and examples
+Biosensors: Principle, types and examples
+Computational biology and application of Artificial Intelligence in bio-medical field
           </div>
         )}
       </div>
@@ -125,11 +136,11 @@ deposition, thin film deposition
 
       {/* NOTES */}
       <div className="section">
-        <h2>Student Notes</h2>
+        <h2>Faculty's Materials</h2>
         <div className="horizontal-container">
 
         <div className="file-box">
-          <h3>Unit 1(student Name)</h3>
+          <h3>Unit 1(Facuty Name)</h3>
           <a
             href="PASTE_PDF_LINK_HERE"
             target="_blank"
@@ -142,7 +153,7 @@ deposition, thin film deposition
         </div>
 
         <div className="file-box">
-          <h3>Unit 2,3(student Name)</h3>
+          <h3>Unit 2,3(Faculty  Name)</h3>
           <a
             href="PASTE_PDF_LINK_HERE"
             target="_blank"
@@ -154,18 +165,7 @@ deposition, thin film deposition
           
         </div>
 
-        <div className="file-box">
-          <h3>Unit 1(student Name)</h3>
-          <a
-            href="PASTE_PDF_LINK_HERE"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="pdf-link"
-          >
-            View Notes
-          </a>
-          
-        </div>
+        
 
         <div className="file-box">
           <h3>Unit 4(student Name)</h3>

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../Mechanics.css";
+import "../Common.css";
 
 function Math() {
   const [showSyllabus, setShowSyllabus] = useState(false);

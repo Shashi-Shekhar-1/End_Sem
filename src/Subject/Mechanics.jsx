@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../Mechanics.css";
+import "../Common.css";
 
 function Mechanics() {
   const [showSyllabus, setShowSyllabus] = useState(false);
@@ -8,7 +8,7 @@ function Mechanics() {
     <div className="mechanics-container">
 
 
-      <h1 className="title">Engineering Mechanics</h1>
+      <h1 className="title">Engineering Physics</h1>
 
       <div className="whatsapp-container">
         {/* Floating WhatsApp Button */}
@@ -39,20 +39,32 @@ function Mechanics() {
 
         {showSyllabus && (
           <div className="file-placeholder">
-             Unit 1 
-Force system: Forces, Free-Body Diagrams, Moment, Couples, Resultant and Equilibrium of Two dimensional force 
-System, Equivalent Force system
+Unit 1 
+<br/>
+Quantum Mechanics: Matter waves, Properties of matter waves, Physical significance of wave function. 
+Schrödinger’s time dependent and time independent equations, Operators, Eigen values and Eigen functions, 
+Expectation values, Applications of Schrödinger’s equation; Motion of a free particle, Electron in an infinite 
+deep potential well (rigid box), Electron in a finite deep potential well (non-rigid box) 
 <br/><br/>
 Unit 2 
-Structures in Equilibrium: Beams and Trusses, Dry Friction for inclined planes, Belt friction 
+<br/>
+Solid State Physics: Lattice parameters, Miller indices, inter planer distance of lattice plane, density of crystals (linear, 
+planar and volume), S𝑜̈mmerfield’s free electron theory, Density of states (3D), Fermi-Dirac probability function, 
+Nearly free electron theory (E-k curve), classification of solids on the basis of band theory 
 <br/><br/>
-Unit 3 
-Motion of a Point: Position, Velocity and Acceleration, Straight Line motion, Curvilinear Motion, Cartesian 
-coordinates, normal & tangential coordinates and, polar coordinates. Relative motion 
+Unit 3
+<br/>
+Semiconductor Physics: Electron and hole concentrations in semiconductors, intrinsic density, intrinsic and 
+Extrinsic conductivity, Position of Fermi level in intrinsic and extrinsic semiconductors, Law of mass action, 
+Temperature variation of carrier concentration in extrinsic semiconductors, Electrical conduction in extrinsic 
+semiconductor, Hall Effect
 <br/><br/>
 Unit 4 
-Forces, Mass and Acceleration: Newton’s second law, Work-Energy Principle, Impulse- Momentum Principle, Direct 
-central impact
+<br/>
+Laser Physics: Introduction to laser, Spontaneous and stimulated emission of radiations, Thermal equilibrium, 
+Condition for Light amplification, Population inversion, Pumping (Three level and four level pumping), 
+Optical resonator, Laser beam characteristics, Ruby laser, Nd-YAG Laser, He-Ne Laser, Semiconductor Laser, 
+Engineering applications of Laser (Fiber optics, Laser material interaction)
           </div>
         )}
       </div>
@@ -103,11 +115,11 @@ central impact
 
       {/* NOTES */}
       <div className="section">
-        <h2>Student Notes</h2>
+        <h2>Faculty's Materials</h2>
         <div className="horizontal-container">
 
         <div className="file-box">
-          <h3>Unit 1(By student name)</h3>
+          <h3>Unit 1(By faculty name)</h3>
           <a
             href="https://drive.google.com/file/d/1iVFtFpC90Uvzxty_SeHmXJ3cfxgVVZc3/view?usp=drivesdk"
             rel="noopener noreferrer"
@@ -219,21 +231,21 @@ central impact
 
         <div className="youtube-box">
           <a
-            href="https://youtube.com/playlist?list=PLDN15nk5uLiAyM7MbRBF1eIFC8y5vMRxI&si=PeMZjm1f0ox5FI5E"
+            href="https://www.youtube.com/live/hQpugnbxH88?si=jTmv2SGieVOEWZpL"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            TIKLE'S ACADEMY <br/>
+            Gateway Classes(unit1) <br/>
             
           </a>
           <a
-            href="https://youtube.com/playlist?list=PLT3bOBUU3L9hADhGPsZjSddwAC3BvJDnl&si=nm86THm_NOJ4TafJ"
+            href="https://youtube.com/playlist?list=PLQzUXa8lZVq8Zciw0MsOdPJ1t-bpPKV6_&si=K0VBvkPdXuez8lH7"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            Pradeep Giri
+            E-Phy. by Sanjiv(unit 1)
           </a>
 
           <a
@@ -242,25 +254,16 @@ central impact
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            P W
+            Dummy
           </a>
           
-
-          <a
-            href="https://youtu.be/axCslafAj3s?si=eKHSvB-DN6yTbSqV"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="youtube-link"
-          >
-            Gatway Classes
-          </a>
-          <a
+         <a
             href="https://www.youtube.com/live/WSctd-KdTIk?si=sucypq6Gh5814miX"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            Uncademy
+            Dummy
           </a>
         </div>
       </div>

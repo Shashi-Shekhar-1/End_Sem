@@ -1,14 +1,14 @@
 import React, { useState } from "react";
-import "../Mechanics.css";
+import "../Common.css";
 
-function Beee() {
+function MathsII() {
   const [showSyllabus, setShowSyllabus] = useState(false);
 
   return (
     <div className="mechanics-container">
 
 
-      <h1 className="title">BEEE</h1>
+      <h1 className="title">E_Maths II</h1>
 
       <div className="whatsapp-container">
         {/* Floating WhatsApp Button */}
@@ -39,36 +39,33 @@ function Beee() {
 
         {showSyllabus && (
           <div className="file-placeholder">
-             
-Unit 1 
-DC Circuits: Electrical circuit elements (R, L, and C), voltage and current sources, Kirchhoff’s 
-laws, analysis of simple DC circuits: Superposition, Thevenin and Norton theorems, Maximum 
-Power Transfer theorem, Star-Delta transformation
-<br/><br/>
-Unit 2 
-AC Circuits:
-Representation of sinusoidal waveforms, peak and rms values, phasor representation, real power, 
-reactive power, apparent power, power factor. Analysis of single-phase ac circuits consisting of 
-R, L, C, R-L, R-C, R-L-C combinations (series and parallel), resonance. Three-phase balanced 
-circuits, voltage and current relations in star and delta connections, three-phase power.
-<br/><br/>
-Unit 3 
-Magnetic Circuits and Transformers: Magnetic materials, B-H curve, hysteresis loop, series 
-and parallel magnetic circuits, ideal and practical transformer, emf equation, equivalent circuit, 
-losses, regulation and efficiency of a single phase transformers. Autotransformer and three-phase 
-transformer connections
-<br/><br/>
-Unit 4 
-Semiconductor Diode: Depletion layer, V-I characteristics, ideal and practical Diodes, Diode Equivalent 
-Circuits, Zener Diodes breakdown mechanism (Zener and avalanche).
-Application: Diode Configuration, Half and Full Wave rectification. 
-Bipolar Junction Transistors: PNP and NPN structures, Principle of operation, input and output 
-characteristics of common emitter configuration, relation between current gains in CE, CB and CC.
-<br/><br/>
-Unit 5 
-Digital System and Binary Numbers: Number System and its arithmetic Signed binary numbers, Logic 
-simplification and combinational logic design: Binary codes, code conversion, review of Boolean algebra.
-Logic Gates: Different types of gate and truth table, adder and subtractor using logic gates.
+
+            Unit 1
+            <br />
+            Ordinary Differential Equations:
+            First order Ordinary Differential Equations: Homogeneous, Linear, Exact ; Higher order linear equations with constant
+            coefficients, Euler-Cauchy equations, Non homogeneous higher order linear differential equations with constant
+            coefficients (method of undetermined coefficients and method of variation of parameters), Applications to Initial and
+            boundary value problems: Orthogonal Trajectories, Statement and Application of Newton’s Law of Cooling, Growth
+            and Decay, Kirchhoff’s Law, Simple Electrical Circuits, Heat Flow, Rectilinear Motion, Simple Harmonic Motion.
+            S: First order Ordinary Differential Equations - Variable Separable, Homogeneous, Linear
+            <br /><br />
+            Unit 2
+            <br />
+            Partial Differential Equations:
+            Fourier Series, Dirichlet’s condition, Half range series, Formulation of Partial differential equation, Solution of First
+            order partial differential equations, Quasi-linear differential equations, Second order differential equations and canonical
+            form. Initial and Boundary value problem, Method of separation of variable, Dirichlet’s problem, Poisson's Equation,
+            Vibrations of a String, One dimensional heat equation, Two- dimensional heat equation (Laplace Equation) under steady
+            state conditions.
+            S: two-dimensional heat equation (Laplace Equation) under steady state conditions
+            <br /><br />
+            Unit 3
+            <br />
+            Probability:
+            Random variables, Probability distributions, Expectation and variance, Moment Generating Function, Binomial
+            distribution, Poisson distribution, Normal distribution and Exponential distribution.
+            S: Basic concept of Probability, Conditional Probability, Exponential distribution
           </div>
         )}
       </div>
@@ -80,7 +77,7 @@ Logic Gates: Different types of gate and truth table, adder and subtractor using
         <div className="horizontal-container">
 
           <div className="file-box">
-            <h3>Assignment 1<br/>Unit(1,2)-20 Q</h3>
+            <h3>Assignment 1<br />Unit(1,2)-20 Q</h3>
             <a
               href="PASTE_PDF_LINK_HERE"
               target="_blank"
@@ -92,7 +89,7 @@ Logic Gates: Different types of gate and truth table, adder and subtractor using
           </div>
 
           <div className="file-box">
-            <h3>Assignment 2<br/>Unit(3,4)-16 Q</h3>
+            <h3>Assignment 2<br />Unit(3,4)-16 Q</h3>
             <a
               href="PASTE_PDF_LINK_HERE"
               target="_blank"
@@ -104,7 +101,7 @@ Logic Gates: Different types of gate and truth table, adder and subtractor using
           </div>
 
           <div className="file-box">
-            <h3>Assignment 2<br/>Unit(5)-34 Q</h3>
+            <h3>Assignment 2<br />Unit(5)-34 Q</h3>
             <a
               href="PASTE_PDF_LINK_HERE"
               target="_blank"
@@ -121,61 +118,51 @@ Logic Gates: Different types of gate and truth table, adder and subtractor using
 
       {/* NOTES */}
       <div className="section">
-        <h2>Student Notes</h2>
+        <h2>Faculty's Materials</h2>
         <div className="horizontal-container">
 
-        <div className="file-box">
-          <h3>Unit 1(student Name)</h3>
-          <a
-            href="PASTE_PDF_LINK_HERE"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="pdf-link"
-          >
-            View Notes
-          </a>
-          
-        </div>
+          <div className="file-box">
+            <h3>Unit 1(Faculty  Name)</h3>
+            <a
+              href="PASTE_PDF_LINK_HERE"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="pdf-link"
+            >
+              View Notes
+            </a>
 
-        <div className="file-box">
-          <h3>Unit 2,3(student Name)</h3>
-          <a
-            href="PASTE_PDF_LINK_HERE"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="pdf-link"
-          >
-            View Notes
-          </a>
-          
-        </div>
-
-        <div className="file-box">
-          <h3>Unit 1(student Name)</h3>
-          <a
-            href="PASTE_PDF_LINK_HERE"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="pdf-link"
-          >
-            View Notes
-          </a>
-          
-        </div>
-
-        <div className="file-box">
-          <h3>Unit 4(student Name)</h3>
-          <a
-            href="PASTE_PDF_LINK_HERE"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="pdf-link"
-          >
-            View Notes
-          </a>
           </div>
+
+          <div className="file-box">
+            <h3>Unit 2,3(Faculty Name)</h3>
+            <a
+              href="PASTE_PDF_LINK_HERE"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="pdf-link"
+            >
+              View Notes
+            </a>
+
           </div>
-        
+
+          <div className="file-box">
+            <h3>Unit 1(Faculty  Name)</h3>
+            <a
+              href="PASTE_PDF_LINK_HERE"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="pdf-link"
+            >
+              View Notes
+            </a>
+
+          </div>
+
+
+        </div>
+
       </div>
 
       {/* PYQ */}
@@ -232,7 +219,7 @@ Logic Gates: Different types of gate and truth table, adder and subtractor using
             </a>
           </div>
 
-          
+
 
         </div>
       </div>
@@ -243,21 +230,21 @@ Logic Gates: Different types of gate and truth table, adder and subtractor using
 
         <div className="youtube-box">
           <a
-            href="PASTE_YOUTUBE_LINK_HERE"
+            href="https://youtu.be/ZHHvqtWBtnU?si=w5ecDjCtfz_8664s"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            Pradeep Giri <br/>
-            
+            Fearless Innocent Math(unit 1) <br />
+
           </a>
           <a
-            href="PASTE_YOUTUBE_LINK_HERE"
+            href="https://www.youtube.com/live/RrZ4sH1gWos?si=toIx7B_yu_cJwkyf"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            G Purohit
+            Gateway Classes(unit 1)
           </a>
 
           <a
@@ -266,7 +253,7 @@ Logic Gates: Different types of gate and truth table, adder and subtractor using
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            G Purohit
+            Dummy
           </a>
           <a
             href="PASTE_YOUTUBE_LINK_HERE"
@@ -274,29 +261,13 @@ Logic Gates: Different types of gate and truth table, adder and subtractor using
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            G Purohit
+            Dummy
           </a>
 
-          <a
-            href="PASTE_YOUTUBE_LINK_HERE"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="youtube-link"
-          >
-            G Purohit
-          </a>
-          <a
-            href="PASTE_YOUTUBE_LINK_HERE"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="youtube-link"
-          >
-            Fearless Innocent
-          </a>
         </div>
       </div>
     </div>
   );
 }
 
-export default Beee;
+export default MathsII;

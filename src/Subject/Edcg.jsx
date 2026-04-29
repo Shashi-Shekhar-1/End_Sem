@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../Mechanics.css";
+import "../Common.css";
 
 function Edcg() {
   const [showSyllabus, setShowSyllabus] = useState(false);
@@ -8,7 +8,7 @@ function Edcg() {
     <div className="mechanics-container">
 
 
-      <h1 className="title">EDCG</h1>
+      <h1 className="title">Material Eng.</h1>
 
       <div className="whatsapp-container">
         {/* Floating WhatsApp Button */}
@@ -39,23 +39,34 @@ function Edcg() {
 
         {showSyllabus && (
           <div className="file-placeholder">
-             Unit 1  
-Introduction to Engineering Drawing: Drawing tools, conventions, lettering, systems and rules of dimensioning.
+            Unit 1
+            <br/>
+Introduction: Crystalline and Non crystalline solids. Classification of Engineering materials and their selections, 
+bonding in Solids: Ionic, Covalent and Metallic bonding.
 <br/><br/>
-Unit 2 
-Projection of Points and Straight Lines : Projection of points in different quadrants, Projection of straight lines in 
-different orientations.
+Unit 2
+<br/>
+Crystal Structure: Space lattices, Bravais lattices, Crystal system, Unit Cell, Metallic crystal structures: SC, 
+BCC,FCC,HCP structures, Miller notations of planes and directions, Imperfections in crystals: Point defects, Line, 
+surface defects, Dislocations: Edge and Screw dislocation, Burgers vectors.
 <br/><br/>
-Unit 3
-Orthographic Projections: Principles of Orthographic Projections, types of orthographic projections–First angle and 
-third angle projections, Obtaining orthographic projections of given solids and machine elements by using first angle 
-projection method along with sectional views. Basic drawing commands and its applications to draw 2D views using 
-CAD software.
+Unit 3 
+<br/>
+Metallic Materials: Metals and alloys, ferrous materials- introduction to Iron -carbon Diagram, Steel and their Heat 
+treatment, properties and applications. Different types of heat treatment processes. Non-ferrous alloys:Copper based 
+alloys, Al based alloys, other important nonferrous alloys, properties and applications.
 <br/><br/>
 Unit 4 
-Isometric Projections: Principles of Isometric projection – Isometric and natural Scale, Isometric views of simple and 
-compound solids, drawing isometric views from given orthographic views. Basic drawing commands and its 
-applications to draw 3D views using CAD software
+<br/>
+Polymers: Basic concepts of Polymer Science, polymer classifications, Crystallinity of polymers, Copolymers,
+Thermoplastic and Thermosetting polymers, Elastomers, Properties and Applications.
+<br/><br/>
+Unit 5
+<br/>
+Ceramics-Basic concepts of ceramics science, traditional and new ceramics, Oxide and Non-Oxide ceramics, 
+Ceramics for high temperature applications, Glass, applications of ceramics, and glass. Composite materials-
+Definition, general characteristics, Particles reinforced and fiber reinforced composite materials, MMC, CMC, PMC, 
+properties and applications.
           </div>
         )}
       </div>
@@ -108,11 +119,11 @@ applications to draw 3D views using CAD software
 
       {/* NOTES */}
       <div className="section">
-        <h2>Student Notes</h2>
+        <h2>Faculty's Materials</h2>
         <div className="horizontal-container">
 
         <div className="file-box">
-          <h3>Unit 1(Nitish kumar)</h3>
+          <h3>Unit 1(faculty name)</h3>
           <a
             href="PASTE_PDF_LINK_HERE"
             target="_blank"
@@ -125,7 +136,7 @@ applications to draw 3D views using CAD software
         </div>
 
         <div className="file-box">
-          <h3>Unit 2,3(student Name)</h3>
+          <h3>Unit 2,3(faculty Name)</h3>
           <a
             href="PASTE_PDF_LINK_HERE"
             target="_blank"
@@ -138,7 +149,7 @@ applications to draw 3D views using CAD software
         </div>
 
         <div className="file-box">
-          <h3>Unit 1(student Name)</h3>
+          <h3>Unit 1(faculty Name)</h3>
           <a
             href="PASTE_PDF_LINK_HERE"
             target="_blank"
