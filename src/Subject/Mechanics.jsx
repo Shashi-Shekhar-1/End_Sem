@@ -39,6 +39,8 @@ function Mechanics() {
 
         {showSyllabus && (
           <div className="file-placeholder">
+
+<marquee className="mid_syllabus">Mid sem 2 : unit 1 and unit 4</marquee>            
 Unit 1 
 <br/>
 Quantum Mechanics: Matter waves, Properties of matter waves, Physical significance of wave function. 
@@ -76,9 +78,9 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
         <div className="horizontal-container">
 
           <div className="file-box">
-            <h3>Assignment 1<br/>Unit(1,2)-20 Q</h3>
+            <h3>Assignment 1<br/>Not available</h3>
             <a
-              href="https://drive.google.com/file/d/1iVFtFpC90Uvzxty_SeHmXJ3cfxgVVZc3/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
               // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
@@ -88,9 +90,9 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
           </div>
 
           <div className="file-box">
-            <h3>Assignment 2<br/>Unit(3,4)-16 Q</h3>
+            <h3>Assignment 2<br/>Not avaiable</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -99,9 +101,9 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
           </div>
 
           <div className="file-box">
-            <h3>Assignment 2<br/>Unit(5)-34 Q</h3>
+            <h3>Assignment 2<br/>Not available</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -119,9 +121,9 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
         <div className="horizontal-container">
 
         <div className="file-box">
-          <h3>Unit 1(By faculty name)</h3>
+          <h3>Unit 1(Wave Function)</h3>
           <a
-            href="https://drive.google.com/file/d/1iVFtFpC90Uvzxty_SeHmXJ3cfxgVVZc3/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1MRTm1YbbL3A_4dLRUAaczotwYJUeEruF/view?usp=drivesdk"
             rel="noopener noreferrer"
             className="pdf-link"
           >
@@ -131,9 +133,9 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
         </div>
 
         <div className="file-box">
-          <h3>Unit 2,3(By xyz)</h3>
+          <h3>Unit 1(Dual Nature)</h3>
           <a
-            href="PASTE_PDF_LINK_HERE"
+            href="https://drive.google.com/file/d/1MS9OClyF4SR-1RXcmalvZlRX6aatJRhi/view?usp=drivesdk"
             rel="noopener noreferrer"
             className="pdf-link"
           >
@@ -143,9 +145,9 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
         </div>
 
         <div className="file-box">
-          <h3>Unit 1(By abc)</h3>
+          <h3>Unit 1(particle in box)</h3>
           <a
-            href="PASTE_PDF_LINK_HERE"
+            href="https://drive.google.com/file/d/1MVQLQ1m6xIvafN6SHqb78Elg-PKqlzeQ/view?usp=drivesdk"
             rel="noopener noreferrer"
             className="pdf-link"
           >
@@ -154,17 +156,7 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
           
         </div>
 
-        <div className="file-box">
-          <h3>Unit 4(student Name)</h3>
-          <a
-            href="PASTE_PDF_LINK_HERE"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="pdf-link"
-          >
-            View Notes
-          </a>
-          </div>
+        
           </div>
         
       </div>
@@ -249,21 +241,21 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
           </a>
 
           <a
-            href="https://youtube.com/playlist?list=PLjtQ3BMex7huPZ48zpcyxqvCjEqz6EKru&si=8I-HQbFSx0h9LY8n"
+            href="https://youtu.be/MDfXWIHQjMA?si=1fIoGSkvnA1dGTyh"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            Dummy
+            Gateway Classes(unit4)
           </a>
           
          <a
-            href="https://www.youtube.com/live/WSctd-KdTIk?si=sucypq6Gh5814miX"
+            href="https://youtube.com/playlist?list=PLSHVHUQ796408vH_LUwm7unewBwf_e196&si=CxAD0i6V6jJe9wiR"
             target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            Dummy
+            unit 4(FADU ENG.)
           </a>
         </div>
       </div>

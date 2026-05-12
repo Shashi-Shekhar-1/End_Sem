@@ -40,6 +40,7 @@ function MathsII() {
         {showSyllabus && (
           <div className="file-placeholder">
 
+           <marquee className="mid_syllabus">Mid sem 2 : unit 1 and unit 2(Fourier Series)</marquee>
             Unit 1
             <br />
             Ordinary Differential Equations:
