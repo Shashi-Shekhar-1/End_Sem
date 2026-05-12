@@ -78,10 +78,10 @@ function MathsII() {
         <div className="horizontal-container">
 
           <div className="file-box">
-            <h3>Assignment 1<br />Unit(1,2)-20 Q</h3>
+            <h3>Assignment 1<br />Not available</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -90,10 +90,10 @@ function MathsII() {
           </div>
 
           <div className="file-box">
-            <h3>Assignment 2<br />Unit(3,4)-16 Q</h3>
+            <h3>Assignment 2<br />Not available</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -102,10 +102,10 @@ function MathsII() {
           </div>
 
           <div className="file-box">
-            <h3>Assignment 2<br />Unit(5)-34 Q</h3>
+            <h3>Assignment 2<br />Not available</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -123,9 +123,9 @@ function MathsII() {
         <div className="horizontal-container">
 
           <div className="file-box">
-            <h3>Unit 1(Faculty  Name)</h3>
+            <h3>Not Available</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
@@ -136,9 +136,9 @@ function MathsII() {
           </div>
 
           <div className="file-box">
-            <h3>Unit 2,3(Faculty Name)</h3>
+            <h3>Not Available</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
@@ -149,9 +149,9 @@ function MathsII() {
           </div>
 
           <div className="file-box">
-            <h3>Unit 1(Faculty  Name)</h3>
+            <h3>Not Available</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
@@ -232,7 +232,7 @@ function MathsII() {
         <div className="youtube-box">
           <a
             href="https://youtu.be/ZHHvqtWBtnU?si=w5ecDjCtfz_8664s"
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
@@ -241,7 +241,7 @@ function MathsII() {
           </a>
           <a
             href="https://www.youtube.com/live/RrZ4sH1gWos?si=toIx7B_yu_cJwkyf"
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
@@ -249,20 +249,20 @@ function MathsII() {
           </a>
 
           <a
-            href="PASTE_YOUTUBE_LINK_HERE"
-            target="_blank"
+            href="https://youtu.be/CDeT2yV_CbM?si=NpR-b5V0ZKzdxVA1"
+            // target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            Dummy
+            Gajendra Purohit(Fourier Series)
           </a>
           <a
-            href="PASTE_YOUTUBE_LINK_HERE"
-            target="_blank"
+            href="https://youtu.be/oLPIPT_hu3s?si=hxzaaArBNF9hDKMU"
+            // target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            Dummy
+            Pradeep Giri(Fourier Series)
           </a>
 
         </div>

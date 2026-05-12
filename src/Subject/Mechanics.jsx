@@ -81,7 +81,6 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
             <h3>Assignment 1<br/>Not available</h3>
             <a
               href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
-              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -251,7 +250,7 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
           
          <a
             href="https://youtube.com/playlist?list=PLSHVHUQ796408vH_LUwm7unewBwf_e196&si=CxAD0i6V6jJe9wiR"
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >

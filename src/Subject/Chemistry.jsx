@@ -39,6 +39,8 @@ function Chemistry() {
 
         {showSyllabus && (
           <div className="file-placeholder">
+
+            <marquee className="mid_syllabus">Mid sem 2 : unit 1 and unit 2</marquee>
              Unit 1 
              <br/>
 Crosstalk between Biology and Engineering:
