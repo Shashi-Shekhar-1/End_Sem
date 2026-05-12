@@ -224,7 +224,7 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
         <div className="youtube-box">
           <a
             href="https://www.youtube.com/live/hQpugnbxH88?si=jTmv2SGieVOEWZpL"
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
@@ -233,7 +233,7 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
           </a>
           <a
             href="https://youtube.com/playlist?list=PLQzUXa8lZVq8Zciw0MsOdPJ1t-bpPKV6_&si=K0VBvkPdXuez8lH7"
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
@@ -242,7 +242,7 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
 
           <a
             href="https://youtu.be/MDfXWIHQjMA?si=1fIoGSkvnA1dGTyh"
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
