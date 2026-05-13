@@ -19,8 +19,9 @@ function Dashboard() {
     { id: 3, img: chemistry, path: "/Chemistry",subject: "E_Biology" },
     { id: 4, img: math, path: "/Maths",subject: "BPIE"},
     { id: 5, img: edcg, path: "/Edcg",subject: "MATE" },
-    { id: 5, img: edcg, path: "/Edcg",subject: "PPS" },
-    { id: 5, img: edcg, path: "/Edcg",subject: "IKS" },
+
+    { id: 6, img: edcg, path: "/Pps",subject: "PPS" },
+    { id: 7, img: edcg, path: "/Iks",subject: "IKS" },
     
   ];
 

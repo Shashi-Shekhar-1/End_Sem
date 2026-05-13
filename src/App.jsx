@@ -11,6 +11,8 @@ import Beee from "./Subject/Beee";
 import Chemistry from "./Subject/Chemistry";
 import Maths from "./Subject/Maths";
 import Edcg from "./Subject/Edcg";
+import Pps from "./Subject/Pps";
+import Iks from "./Subject/Iks";
 
 
 
@@ -28,6 +30,10 @@ function App() {
         <Route path="/Chemistry" element={<Chemistry/>} />
         <Route path="/Maths" element={<Maths/>} />
         <Route path="/Edcg" element={<Edcg/>} />
+        <Route path="/Pps" element={<Pps/>}/>
+        <Route path="/Iks" element={<Iks/>}/>
+
+
 
         </Routes>
       </Router>
