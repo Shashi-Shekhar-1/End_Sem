@@ -40,7 +40,7 @@ function Chemistry() {
         {showSyllabus && (
           <div className="file-placeholder">
 
-            <marquee className="mid_syllabus">Mid sem 2 : unit 1 and unit 2</marquee>
+            <marquee className="mid_syllabus">Mid sem 1 : unit 1 and unit 2</marquee>
              Unit 1 
              <br/>
 Crosstalk between Biology and Engineering:
@@ -97,10 +97,10 @@ Computational biology and application of Artificial Intelligence in bio-medical 
         <div className="horizontal-container">
 
           <div className="file-box">
-            <h3>Assignment 1<br/>Unit(1,2)-20 Q</h3>
+            <h3>Assignment 1<br/>Not available</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -109,10 +109,10 @@ Computational biology and application of Artificial Intelligence in bio-medical 
           </div>
 
           <div className="file-box">
-            <h3>Assignment 2<br/>Unit(3,4)-16 Q</h3>
+            <h3>Assignment 2<br/>Not available</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -121,10 +121,10 @@ Computational biology and application of Artificial Intelligence in bio-medical 
           </div>
 
           <div className="file-box">
-            <h3>Assignment 2<br/>Unit(5)-34 Q</h3>
+            <h3>Assignment 2<br/>Not available</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -142,7 +142,7 @@ Computational biology and application of Artificial Intelligence in bio-medical 
         <div className="horizontal-container">
 
         <div className="file-box">
-          <h3>Unit 1(Facuty Name)</h3>
+          <h3>Unit 1 (Not Provided)</h3>
           <a
             href="PASTE_PDF_LINK_HERE"
             target="_blank"
@@ -155,7 +155,7 @@ Computational biology and application of Artificial Intelligence in bio-medical 
         </div>
 
         <div className="file-box">
-          <h3>Unit 2,3(Faculty  Name)</h3>
+          <h3>Unit 2(Not Provided)</h3>
           <a
             href="PASTE_PDF_LINK_HERE"
             target="_blank"
@@ -170,7 +170,7 @@ Computational biology and application of Artificial Intelligence in bio-medical 
         
 
         <div className="file-box">
-          <h3>Unit 4(student Name)</h3>
+          <h3>Unit 4(Not Provided)</h3>
           <a
             href="PASTE_PDF_LINK_HERE"
             target="_blank"
@@ -193,8 +193,8 @@ Computational biology and application of Artificial Intelligence in bio-medical 
           <div className="file-box">
             <h3>PYQ 2025(Mid sem)</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1NlcoFc5w-gPKZ2g3ofd-jHDezLGNr7hw/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -205,8 +205,8 @@ Computational biology and application of Artificial Intelligence in bio-medical 
           <div className="file-box">
             <h3>PYQ 2024</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="Phttps://drive.google.com/file/d/1NsYB_dhhVgVyGCH0eb2yZvG5cjKFua1_/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -225,22 +225,7 @@ Computational biology and application of Artificial Intelligence in bio-medical 
               Open 2023
             </a>
           </div>
-
-          <div className="file-box">
-            <h3>PYQ 2022</h3>
-            <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="pdf-link"
-            >
-              Open 2022
-            </a>
-          </div>
-
-          
-
-        </div>
+         </div>
       </div>
 
       {/* YOUTUBE */}
@@ -250,29 +235,29 @@ Computational biology and application of Artificial Intelligence in bio-medical 
         <div className="youtube-box">
           <a
             href="PASTE_YOUTUBE_LINK_HERE"
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            Pradeep Giri <br/>
+            Unit 1 <br/>
             
           </a>
           <a
             href="PASTE_YOUTUBE_LINK_HERE"
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            G Purohit
+            Unit 1
           </a>
 
           <a
             href="PASTE_YOUTUBE_LINK_HERE"
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            G Purohit
+            Unit 2
           </a>
           <a
             href="PASTE_YOUTUBE_LINK_HERE"
@@ -280,24 +265,7 @@ Computational biology and application of Artificial Intelligence in bio-medical 
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            G Purohit
-          </a>
-
-          <a
-            href="PASTE_YOUTUBE_LINK_HERE"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="youtube-link"
-          >
-            G Purohit
-          </a>
-          <a
-            href="PASTE_YOUTUBE_LINK_HERE"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="youtube-link"
-          >
-            Fearless Innocent
+            Unit 2
           </a>
         </div>
       </div>

@@ -8,7 +8,7 @@ function Edcg() {
     <div className="mechanics-container">
 
 
-      <h1 className="title">Material Eng.</h1>
+      <h1 className="title">MATE</h1>
 
       <div className="whatsapp-container">
         {/* Floating WhatsApp Button */}
@@ -39,6 +39,7 @@ function Edcg() {
 
         {showSyllabus && (
           <div className="file-placeholder">
+            <marquee className="mid_syllabus">Mid sem 1 : unit 1 and unit 2</marquee> 
             Unit 1
             <br/>
 Introduction: Crystalline and Non crystalline solids. Classification of Engineering materials and their selections, 
@@ -185,8 +186,8 @@ properties and applications.
           <div className="file-box">
             <h3>PYQ 2025(Mid sem)</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1O2eNJCz0o4mG8trYrmR8HrkY3ePW9Et5/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >

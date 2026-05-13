@@ -40,7 +40,7 @@ function MathsII() {
         {showSyllabus && (
           <div className="file-placeholder">
 
-           <marquee className="mid_syllabus">Mid sem 2 : unit 1 and unit 2(Fourier Series)</marquee>
+           <marquee className="mid_syllabus">Mid sem 1 : unit 1 and unit 2(Fourier Series)</marquee>
             Unit 1
             <br />
             Ordinary Differential Equations:
@@ -175,8 +175,8 @@ function MathsII() {
           <div className="file-box">
             <h3>PYQ 2025(Mid sem)</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1NPguWbJBxABM-UTQMNECNvCR2X-MWSXY/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -187,8 +187,8 @@ function MathsII() {
           <div className="file-box">
             <h3>PYQ 2024</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1NWy4D2VaHODnf9SdbrBjoVFxVjkJIPdC/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >

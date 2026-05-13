@@ -40,7 +40,7 @@ function Mechanics() {
         {showSyllabus && (
           <div className="file-placeholder">
 
-<marquee className="mid_syllabus">Mid sem 2 : unit 1 and unit 4</marquee>            
+<marquee className="mid_syllabus">Mid sem 1 : unit 1 and unit 4</marquee>            
 Unit 1 
 <br/>
 Quantum Mechanics: Matter waves, Properties of matter waves, Physical significance of wave function. 
@@ -169,8 +169,8 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
           <div className="file-box">
             <h3>PYQ 2025(Mid sem)</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1NQES9hQjFtdtp54UvPldTKe3C5oNgC0K/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -181,7 +181,7 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
           <div className="file-box">
             <h3>PYQ 2024</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
+              href="https://drive.google.com/file/d/1NRuWzpRmGT2d1nFZ5-jf5JbhBf3KMGzj/view?usp=drivesdk"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -199,21 +199,7 @@ Engineering applications of Laser (Fiber optics, Laser material interaction)
               Open 2023
             </a>
           </div>
-
-          <div className="file-box">
-            <h3>PYQ 2022</h3>
-            <a
-              href="PASTE_PDF_LINK_HERE"
-              rel="noopener noreferrer"
-              className="pdf-link"
-            >
-              Open 2022
-            </a>
-          </div>
-
-          
-
-        </div>
+      </div>
       </div>
 
       {/* YOUTUBE */}

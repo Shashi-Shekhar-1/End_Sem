@@ -8,7 +8,7 @@ function Math() {
     <div className="mechanics-container">
 
 
-      <h1 className="title">Engineering Mathematics</h1>
+      <h1 className="title">BPIE</h1>
 
       <div className="whatsapp-container">
         {/* Floating WhatsApp Button */}
@@ -39,29 +39,38 @@ function Math() {
 
         {showSyllabus && (
           <div className="file-placeholder">
-             Mathematics 
-Unit 1 
-Matrices and Linear Algebra: 
-Matrices: Elementary operations, Gauss Elimination, Rank of matrices: Echelon form, Normal form, Determinants, 
-Consistency and solution of system of linear equations, Eigen values, Eigen vectors, Caylay-Hamilton theorem. Vector 
-space, subspace, linearly independent and dependent of vectors. Basis and Dimensions, Rank-Nullity theorem.
-S: Basic properties of matrices, Elementary transformation, Determinants.
+             
+             <marquee className="mid_syllabus">Mid sem 1 : unit 1 and unit 2</marquee> 
+Module-I
+<br/> 
+Engineering Materials: Metallic and non-metallic materials. Mechanical properties: strength, hardness, toughness, 
+brittleness, creep, fatigue, stiffness, ductility, malleability, elasticity and plasticity. Physical properties: density, 
+viscosity, porosity, specific gravity, fusibility. Thermal properties: specific heat, thermal conductivity, thermal 
+resistance, and thermal diffusivity. Magnetic properties, Electrical Properties: Resistance, Resistivity, conductance and 
+conductivity, capacitance. Chemical properties: Corrosion resistance, acidity and alkalinity. Manufacturability, 
+castability, machinability, weldability, ferrous and Non-ferrous metals, Alloying and its effects.
 <br/><br/>
-Unit 2 
-Differential Calculus: 
-Expansions of function of one variable using Taylor’s and Maclaurin’s series, Asymptotes, Curve tracing, Limit and 
-continuity of two variables, Partial and Total derivatives, chain rule, Jacobian, Taylor’s theorem, Maxima and minima 
-of two variables, Method of Lagrange’s multipliers.
-S: Higher order derivatives, Limit and continuity of two variables, Jacobian.
+Module -II
+Classification and principles of manufacturing processes: Manufacturing definition and its history, broad 
+classification of manufacturing processes and their basic principles; casting and moulding, metal forming, material 
+removal process, welding and joining, powder metallurgy and additive manufacturing. Manufacturing process flow in 
+an industry with case studies; Application of manufacturing process in various industries;
 <br/><br/>
-Unit 3 
-Integral Calculus:
-Beta and Gamma function, Evaluation of Double integrals in Cartesian and Polar co-ordinates, Change of order of 
-integration, Evaluation of Triple integrals in Cartesian, Spherical and Cylindrical co-ordinates, Change of Variables, 
-Applications to Area, Volume, surface area and Center of Mass. Vector differentiation, Gradient, Divergence and Curl, 
-Line Integrals and Arc Length Parameterization, Surface Integral, Volume Integral, Path independence, Statements and 
-illustrations of theorems of Green, Stokes and Gauss, applications.
-S: Beta and Gamma function, Area, Volume, Surface area.
+Module -III 
+Machining and Machine tools: Basics of machine tools, classification and kinematics of machine tool drives, 
+classification cutting tools, tool materials, General purpose machine tools and applications: Lathe, Milling, Shaper, 
+Planner, Drilling, Grinding, Punching. Special purpose machine tools and applications: capstan and turret lathe, gear 
+hobbing machine, Computer control in machine tool, CNC.
+<br/><br/>
+Module -IV 
+Advanced and Digital Manufacturing: Advanced manufacturing processes; Precision and micro-to-nano 
+manufacturing; Reverse engineering and rapid prototyping; Additive manufacturing processes; IoT and Industrial IoT; 
+Introduction to Industry 4.0 and beyond.
+<br/><br/>
+Module -V 
+Introduction to Industrial Engineering: Production Planning, Scheduling, Inventory Management System, Lean 
+Manufacturing Concept, Facility Layout & Design, Logistics and Supply Chain Management, Equipment Maintenance, 
+Industrial Safety.
           </div>
         )}
       </div>
@@ -73,10 +82,10 @@ S: Beta and Gamma function, Area, Volume, Surface area.
         <div className="horizontal-container">
 
           <div className="file-box">
-            <h3>Assignment 1<br/>Unit(1,2)-20 Q</h3>
+            <h3>Assignment 1<br/>Not available</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -85,10 +94,10 @@ S: Beta and Gamma function, Area, Volume, Surface area.
           </div>
 
           <div className="file-box">
-            <h3>Assignment 2<br/>Unit(3,4)-16 Q</h3>
+            <h3>Assignment 2<br/>Not available</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -97,10 +106,10 @@ S: Beta and Gamma function, Area, Volume, Surface area.
           </div>
 
           <div className="file-box">
-            <h3>Assignment 2<br/>Unit(5)-34 Q</h3>
+            <h3>Assignment 2<br/>Not available</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -113,7 +122,8 @@ S: Beta and Gamma function, Area, Volume, Surface area.
       </div>
 
       {/* NOTES */}
-      <div className="section">
+
+      {/* <div className="section">
         <h2>Student Notes</h2>
         <div className="horizontal-container">
 
@@ -169,7 +179,56 @@ S: Beta and Gamma function, Area, Volume, Surface area.
           </div>
           </div>
         
+      </div> */}
+
+     <div className="section">
+        <h2>Faculty's Materials</h2>
+        <div className="horizontal-container">
+
+        <div className="file-box">
+          <h3>Unit 1 (Not Provided)</h3>
+          <a
+            href="PASTE_PDF_LINK_HERE"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="pdf-link"
+          >
+            View Notes
+          </a>
+          
+        </div>
+
+        <div className="file-box">
+          <h3>Unit 2(Not Provided)</h3>
+          <a
+            href="PASTE_PDF_LINK_HERE"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="pdf-link"
+          >
+            View Notes
+          </a>
+          
+        </div>
+
+        
+
+        <div className="file-box">
+          <h3>Unit 4(Not Provided)</h3>
+          <a
+            href="PASTE_PDF_LINK_HERE"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="pdf-link"
+          >
+            View Notes
+          </a>
+          </div>
+          </div>
+        
       </div>
+
+      
 
       {/* PYQ */}
       <div className="section">
@@ -180,8 +239,8 @@ S: Beta and Gamma function, Area, Volume, Surface area.
           <div className="file-box">
             <h3>PYQ 2025(Mid sem)</h3>
             <a
-              href="PASTE_PDF_LINK_HERE"
-              target="_blank"
+              href="https://drive.google.com/file/d/1NtpVDXHBv77Ok4K2EphU75Pk0NdeAKKs/view?usp=drivesdk"
+              // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
             >
@@ -241,7 +300,7 @@ S: Beta and Gamma function, Area, Volume, Surface area.
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            Pradeep Giri <br/>
+            Unit 1 <br/>
             
           </a>
           <a
@@ -250,7 +309,7 @@ S: Beta and Gamma function, Area, Volume, Surface area.
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            G Purohit
+            Unit 1
           </a>
 
           <a
@@ -259,7 +318,7 @@ S: Beta and Gamma function, Area, Volume, Surface area.
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            G Purohit
+            Unit 1
           </a>
           <a
             href="PASTE_YOUTUBE_LINK_HERE"
@@ -267,7 +326,7 @@ S: Beta and Gamma function, Area, Volume, Surface area.
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            G Purohit
+            Unit 2
           </a>
 
           <a
@@ -276,16 +335,9 @@ S: Beta and Gamma function, Area, Volume, Surface area.
             rel="noopener noreferrer"
             className="youtube-link"
           >
-            G Purohit
+            Unit 2
           </a>
-          <a
-            href="PASTE_YOUTUBE_LINK_HERE"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="youtube-link"
-          >
-            Fearless Innocent
-          </a>
+          
         </div>
       </div>
     </div>
