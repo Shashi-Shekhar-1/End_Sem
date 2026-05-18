@@ -8,20 +8,24 @@ import beee from "./Photo/beee.jpeg";
 import chemistry from "./Photo/chemistry.jpeg";
 import edcg from "./Photo/edcg.jpeg";
 import math from "./Photo/math.jpeg";
+import pps from "./Photo/pps.jpeg";
+import iks from "./Photo/iks.jpeg";
+
+
 
 
 function Dashboard() {
   const navigate = useNavigate();
 
   const cards = [
-    { id: 1, img: physics, path: "/Mechanics",subject: "E_Physics" },
     { id: 2, img: beee, path: "/Beee",subject: "E_Maths II" },
+    { id: 1, img: physics, path: "/Mechanics",subject: "E_Physics" },
     { id: 3, img: chemistry, path: "/Chemistry",subject: "E_Biology" },
     { id: 4, img: math, path: "/Maths",subject: "BPIE"},
     { id: 5, img: edcg, path: "/Edcg",subject: "MATE" },
 
-    { id: 6, img: edcg, path: "/Pps",subject: "PPS" },
-    { id: 7, img: edcg, path: "/Iks",subject: "IKS" },
+    { id: 6, img: pps, path: "/Pps",subject: "PPS" },
+    { id: 7, img: iks, path: "/Iks",subject: "IKS" },
     
   ];
 

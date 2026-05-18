@@ -73,14 +73,14 @@ function MathsII() {
 
       {/* ASSIGNMENTS */}
       <div className="section">
-        <h2>Assignments  (With Solution)</h2>
+        <h2>Assignments </h2>
 
         <div className="horizontal-container">
 
           <div className="file-box">
-            <h3>Assignment 1<br />Not available</h3>
+            <h3>Assignment 1</h3>
             <a
-              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1Q780SOzJ7LslXkekLQERo9vRXlhBYr_p/view?usp=drivesdk"
               // target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
@@ -123,9 +123,9 @@ function MathsII() {
         <div className="horizontal-container">
 
           <div className="file-box">
-            <h3>Not Available</h3>
+            <h3>Available</h3>
             <a
-              href="https://drive.google.com/file/d/1Mk5oB187zw_LDoSwLvXezNrD9qzugoQ5/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1QJLM5kCCoGw-G1uzTrEYj0rcbWu4n2SW/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="pdf-link"
@@ -208,7 +208,7 @@ function MathsII() {
             </a>
           </div>
 
-          <div className="file-box">
+          {/* <div className="file-box">
             <h3>PYQ 2022</h3>
             <a
               href="PASTE_PDF_LINK_HERE"
@@ -218,7 +218,7 @@ function MathsII() {
             >
               Open 2022
             </a>
-          </div>
+          </div> */}
 
 
 
