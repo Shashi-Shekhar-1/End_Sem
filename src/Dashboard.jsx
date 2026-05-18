@@ -18,8 +18,8 @@ function Dashboard() {
   const navigate = useNavigate();
 
   const cards = [
-    { id: 2, img: beee, path: "/Beee",subject: "E_Maths II" },
-    { id: 1, img: physics, path: "/Mechanics",subject: "E_Physics" },
+    { id: 2, img: math, path: "/Beee",subject: "E_Maths II" },
+    { id: 1, img: beee, path: "/Mechanics",subject: "E_Physics" },
     { id: 3, img: chemistry, path: "/Chemistry",subject: "E_Biology" },
     { id: 4, img: math, path: "/Maths",subject: "BPIE"},
     { id: 5, img: edcg, path: "/Edcg",subject: "MATE" },
